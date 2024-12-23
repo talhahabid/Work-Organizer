@@ -7,6 +7,7 @@ Flask used for the backend
 MySQL used for the database
 Bootstrap used for styling
 
-*** NOT HOSTED YET ***
+Unofrntaly not hosted (maybe in future)
+
 User can crud tasks
-Prety simple
+Pretty simple
