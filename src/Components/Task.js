@@ -13,9 +13,9 @@ const Task = ({ task, deleteTaskFunc, completeTaskFunc, updateTaskFunc }) => {
 
     return (
         <TaskLayout task={task}>
-            <button onClick={() => completeTaskFunc(id)} className="btn btn-success col-2 mb-3 ml-3">Complete</button>
-            <button onClick={handleModifyClick} className='btn btn-warning col-2 mb-3 ml-2'>Modify</button>
-            <button onClick={() => deleteTaskFunc(id)} className="btn btn-danger col-2 mb-3 ml-2">Delete</button>
+            <button onClick={() => completeTaskFunc(id)} className="btn btn-success col-lg-2 mb-3 ml-3">Complete</button>
+            <button onClick={handleModifyClick} className='btn btn-warning col-lg-2 mb-3 ml-2'>Modify</button>
+            <button onClick={() => deleteTaskFunc(id)} className="btn btn-danger col-lg-2 mb-3 ml-2">Delete</button>
 
             {isEditing && (
                 <div className="edit-modal-overlay">
