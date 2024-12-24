@@ -7,7 +7,7 @@ Flask used for the backend
 MySQL used for the database
 Bootstrap used for styling
 
-Unofrntaly not hosted (maybe in future)
+https://todo-delta-orcin.vercel.app/
 
-User can crud tasks
+Users can crud tasks
 Pretty simple
