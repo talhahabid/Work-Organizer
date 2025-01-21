@@ -1,4 +1,4 @@
-# To Do
+# Work Organizer
 
 Basic CRUD (Create, Read, Update, Delete) Application
 
